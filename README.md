@@ -1,0 +1,1 @@
+This project combines ODE-based simulation and deep learning to model biochemical reaction dynamics. A neural network is trained on simulated data to act as a fast surrogate model, enabling efficient prediction of system behavior. The pipeline includes mass-balance validation and toxicity analysis to ensure physically consistent results.
